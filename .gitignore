@@ -2,3 +2,4 @@
 /.vagrant
 /Vagrantfile
 /Vagrantfile.bak
+*.log
